@@ -1,13 +1,12 @@
 # 💫 Hi 👋, I'm Sudipta Patra
-**A Entry-Level Data Analyst || SQL, Power Bi, Python, Excel, Data Visualization || Passionate about transforming raw data into meaningful insight**
+**A Entry-Level Data Analyst || SQL, Power BI, Python, Excel, Data Visualization || Passionate about transforming raw data into meaningful insight**
 
 Email Me 👉 ✉️ **sudiptapatra496@gmail.com** For Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Sales Data Analyze and Dashboard
 - 🌱 **I’m currently learning:** Numpy
-- 👯 **I’m looking to collaborate on:** Sales Data Analyze and Dashboard
-- 🤔 **I’m looking for help with:** Sales Data Analyze and Dashboard
+- 👯 **I’m looking to collaborate on:** Sales Data Analysis and Dashboard
+- 🤔 **I’m looking for help with:** Sales Data Analysis and Dashboard
 - 📫 **How to reach me:** sudiptapatra496@gmail.com
-- 😄 **Pronouns:** Mr. Sudipta Patra
 - ⚡ **Fun fact:** I Love Dashboards 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudiptapatraa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SudiptaPatra-y5f) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudiptapatra496@gmail.com) 
@@ -19,7 +18,7 @@ Email Me 👉 ✉️ **sudiptapatra496@gmail.com** For Project or Anything Else.
 ![](https://streak-stats.demolab.com/?user=Sudipta-patra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sudipta-patra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+#
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
