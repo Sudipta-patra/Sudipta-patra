@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **sudiptapatra496@gmail.com** For Project or Anything Else. 😊😊
 - 🔭 **I’m currently working on:** Sales Data Analyze and Dashboard
 - 🌱 **I’m currently learning:** Numpy
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 👯 **I’m looking to collaborate on:** Sales Data Analyze and Dashboard
 - 🤔 **I’m looking for help with:** Sales Data Analyze and Dashboard
 - 📫 **How to reach me:** sudiptapatra496@gmail.com
 - 😄 **Pronouns:** Mr. Sudipta Patra
