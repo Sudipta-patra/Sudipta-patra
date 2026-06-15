@@ -19,8 +19,6 @@ Email Me 👉 ✉️ **sudiptapatra496@gmail.com** For Project or Anything Else.
 ![](https://streak-stats.demolab.com/?user=Sudipta-patra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sudipta-patra&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Sudipta-patra)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
